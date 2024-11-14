@@ -1,0 +1,24 @@
+
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: faithadmin
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: faithteacher
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: faithstudent
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: faithparents
+
+
+
